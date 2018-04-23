@@ -11,6 +11,10 @@ TagManager:
   - GardenBox
   - WaterPickup
   - SeedPickup
+  - Stem
+  - Water
+  - Saw
+  - handFlower
   layers:
   - Default
   - TransparentFX
@@ -22,10 +26,10 @@ TagManager:
   - 
   - Soil
   - Terrian
-  - 
-  - 
-  - 
-  - 
+  - Stem
+  - Player
+  - GardenBox
+  - Vase
   - 
   - 
   - 
